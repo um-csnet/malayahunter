@@ -31,7 +31,7 @@ twitter_username: tba
 github_username:  CoR-Cyber-Security-and-Network-UM
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
