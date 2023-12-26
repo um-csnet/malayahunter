@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: default
 title:  "Writeups"
-date:   2023-12-26 18:16:12 +0900
-categories: jekyll update
+nav_order: 2
+has_children: true
 ---
 
+# Collection of Writeups from the Malaya Hunters
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
