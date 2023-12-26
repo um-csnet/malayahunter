@@ -7,4 +7,4 @@ layout: home
 
 # Malaya Hunter
 
-## malaya hunter
+## A CTF/Cybersecurity Community in University Malaya
