@@ -1,11 +1,9 @@
 ---
 layout: default
-title:  "WGMY"
+title:  "NiteCTF2023"
 parent: "Writeups"
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
-# Wargames MY 2023
-
-
+# Nite CTF 2023
