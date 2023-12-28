@@ -1,9 +1,12 @@
 ---
 layout: default
-title:  "NiteCTF2023"
+title:  "Web"
 parent: "Writeups"
 nav_order: 2
 has_children: true
 ---
 
-# Nite CTF 2023
+# WEB Catergory Challenges
+
+
+

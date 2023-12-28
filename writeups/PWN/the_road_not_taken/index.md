@@ -1,9 +1,9 @@
 ---
 layout: default
 title:  "The Road Not Taken"
-parent: "NiteCTF2023"
+parent: "Pwn"
 grand_parent: "Writeups"
-nav_order: 1
+
 ---
 `by broCapang`
 

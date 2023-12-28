@@ -1,9 +1,8 @@
 ---
 layout: default
 title:  "Pakmat Burger"
-parent: "WGMY"
+parent: "Pwn"
 grand_parent: "Writeups"
-nav_order: 2
 ---
 `by broCapang`
 ## Overview

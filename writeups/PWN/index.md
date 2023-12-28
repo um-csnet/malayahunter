@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "WGMY"
+title:  "Pwn"
 parent: "Writeups"
 nav_order: 1
 has_children: true
 ---
 
-# Wargames MY 2023
+# PWN Catergory Challenges
 
 

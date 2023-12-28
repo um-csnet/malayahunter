@@ -1,9 +1,8 @@
 ---
 layout: default
 title:  "Magic Door"
-parent: "WGMY"
+parent: "Pwn"
 grand_parent: "Writeups"
-nav_order: 1
 ---
 
 `by broCapang`
