@@ -17,6 +17,6 @@ For details, see the "[Contributing Guidelines][contribute-guide]".
 
 ## Collaborators
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=CoR-Cyber-Security-and-Network-UM/malayahunter.github.io)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=um-csnet/malayahunter)
 
 [wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki	
