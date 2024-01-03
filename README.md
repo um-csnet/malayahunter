@@ -1,8 +1,8 @@
 <div align="center">
 
-  ![MalayaHunter Logo](/assets/img/favicons/android-chrome-512x512.png)
-  
-  # MalayaHunter
+![MalayaHunter Logo](/assets/img/favicons/android-chrome-192x192.png)
+
+# MalayaHunter
 
 Welcome to MalayaHunter's Github Page. MalayaHunter is a Cybersecurity group from the University Malaya. This page is an amalgamation of writeups and information from CTF's and other walkthroughs. 
 </div>
@@ -23,6 +23,6 @@ For details, see the "[Contributing Guidelines][contribute-guide]".
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=um-csnet/malayahunter)
 
 
-![GitHub contributors from allcontributors.org](https://img.shields.io/github/contributors/um-csnet/malayahunter)
+![GitHub contributors](https://img.shields.io/github/contributors/um-csnet/malayahunter)
 
 [wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
