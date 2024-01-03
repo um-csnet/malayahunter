@@ -1,7 +1,7 @@
 ---
 title: Pakmat Burger
 author: capang
-date: 2024-01-01 09:30:00 +0800
+date: 2024-01-02 09:30:00 +0800
 categories: [Writeups, PWN]
 tags: [wargames 2023]
 math: true

@@ -12,7 +12,7 @@ Welcome to MalayaHunter's Github Page. MalayaHunter is a Cybersecurity group fro
 ## Documentation
 
 This page is created using Jekyll and the Jekyll Chirpy Theme. To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
-Feel free to read the documentation prepared at [Documentation][documentation]
+Feel free to read the documentation prepared at [Documentation][documentation] or [Github][github]
 
 ## Contributing
 
@@ -26,3 +26,4 @@ For details, see the "[Contributing Guidelines][contribute-guide]".
 
 [wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki	
 [documentation]: /categories/documentation/
+[github]: https://github.com/um-csnet/malayahunter/
