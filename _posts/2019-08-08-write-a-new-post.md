@@ -1,9 +1,10 @@
 ---
 title: Writing a New Post
-author: cotes
-date: 2019-08-08 14:10:00 +0800
-categories: [Blogging, Tutorial]
-tags: [writing]
+author: [cotes,capang,shafiq]
+date: 2024-01-01 09:30:00 +0800
+categories: [Documentation, Tutorial]
+tags: [Documentation]
+pin: true
 render_with_liquid: false
 ---
 
@@ -26,6 +27,20 @@ tags: [TAG]     # TAG names should always be lowercase
 ---
 ```
 
+Example for writeups
+
+```yaml
+---
+title: Magic Door
+author: capang
+date: 2024-01-01 09:30:00 +0800
+categories: [Writeups, PWN]
+tags: [wargames 2023]
+math: true
+mermaid: true
+---
+```
+
 > The posts' _layout_ has been set to `post` by default, so there is no need to add the variable _layout_ in the Front Matter block.
 {: .prompt-tip }
 
@@ -44,6 +59,16 @@ tags: [bee]
 ---
 ```
 
+Example
+
+```yaml
+---
+categories: [Writeups, PWN]
+tags: [ihack 2022]
+---
+
+```
+
 ### Author Information
 
 The author information of the post usually does not need to be filled in the _Front Matter_ , they will be obtained from variables `social.name` and the first entry of `social.links` of the configuration file by default. But you can also override it as follows:
@@ -58,6 +83,19 @@ Adding author information in `_data/authors.yml` (If your website doesn't have t
 ```
 {: file="_data/authors.yml" }
 
+Example
+
+```yaml
+capang:
+  name: Capang
+  twitter: 
+  url: https://github.com/broCapang
+
+shafiq:
+  name: Shafiq
+  twitter: 
+  url: https://github.com/shafiqps
+```
 
 And then use `author` to specify a single entry or `authors` to specify multiple entries:
 
