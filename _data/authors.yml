@@ -1,0 +1,24 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+# Author IDs are used in the front matter of posts and pages to specify the author of the content.
+
+cotes:
+  name: Cotes Chung
+  twitter: cotes2020
+  url: https://github.com/cotes2020/
+
+capang:
+  name: Capang
+  twitter: 
+  url: https://github.com/broCapang
+
+shafiq:
+  name: Shafiq
+  twitter: 
+  url: https://github.com/shafiqps
+  

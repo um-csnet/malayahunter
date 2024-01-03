@@ -1,2 +1,0 @@
-﻿# malayahunter.github.io
-test
