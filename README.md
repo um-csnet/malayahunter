@@ -19,7 +19,10 @@ For details, see the "[Contributing Guidelines][contribute-guide]".
 
 ## Contributors
 
-![GitHub contributors from allcontributors.org](https://img.shields.io/github/contributors/um-csnet/malayahunter)
+
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=um-csnet/malayahunter)
+
+
+![GitHub contributors from allcontributors.org](https://img.shields.io/github/contributors/um-csnet/malayahunter)
 
 [wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
