@@ -91,7 +91,7 @@ Your contributions does not limit to only submitting writeups
 > This method only for submitting writeups to webadmin for it to be on side
 {: .prompt-info }
 
-## Reach out to the webadmin with a complete writeups that follows the [`Writeups Guideline`](/posts/writeups-example/)
+## Reach out to the webadmin with a complete writeups that follows the [`Writeups Guideline`](/_posts/2019-08-08-writeups-example.md/)
 
 ## Web Administrators
 
