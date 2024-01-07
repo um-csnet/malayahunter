@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 <div align="center">
-    <div>
-        <img src="/assets/img/favicons/android-chrome-192x192.png">
-    </div>
 
 <h1> MalayaHunter </h1>
 
@@ -21,12 +18,13 @@ Feel free to read the documentation prepared at [Documentation][documentation] o
 
 ## Contributing
 
-Contributions can be made by _pull request_/_issues_/contacting the admin of the website. For details, see the [Documentation][documentation] or [Github][github]
+Contributions can be made by _pull request_/_issues_/contacting the admin of the website. For details, see the [Contributing Guidelines][contributing]
 
 ## Contributors
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=um-csnet/malayahunter)
 
+[contributing]: /malayahunter/posts/how-to-contribute/
 [wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki	
 [documentation]: /malayahunter/categories/documentation/
 [github]: https://github.com/um-csnet/malayahunter/
