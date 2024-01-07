@@ -11,7 +11,7 @@ This tutorial will guide you how to contribute to this page. Theres 2 ways to co
 - Github Fork and Pull Request (Recommended)
 - Contacting Webadmin
 
-> If you want to submit a writeup, make sure it follows the [`Writeups Guideline`](/posts/writeups-example/)
+> If you want to submit a writeup, make sure it follows the [`Writeups Guideline`](/malayahunter/posts/writeups-example/)
 {: .prompt-info }
 
 # How to Contribute to a Project Using GitHub Fork and Pull Request
@@ -85,7 +85,7 @@ Your contributions does not limit to only submitting writeups
 > This method only for submitting writeups to webadmin for it to be on side
 {: .prompt-info }
 
-## Reach out to the webadmin with a complete writeups that follows the [`Writeups Guideline`](/posts/writeups-example/)
+## Reach out to the webadmin with a complete writeups that follows the [`Writeups Guideline`](/malayahunter/posts/writeups-example/)
 
 ## Web Administrators
 
