@@ -1,11 +1,11 @@
 ---
 title: Complete guide for a New Post
 author: [cotes,capang,shafiq]
-date: 2024-01-01 09:30:00 +0800
+date: 2024-01-02 09:30:00 +0800
 categories: [Documentation, Tutorial]
 tags: [Documentation]
-pin: true
 render_with_liquid: false
+order: 1
 ---
 
 This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
