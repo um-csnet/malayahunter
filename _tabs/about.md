@@ -21,7 +21,7 @@ Feel free to read the documentation prepared at [Documentation][documentation] o
 Contributions can be made by _pull request_/_issues_/contacting the admin of the website. For details, see the [Contributing Guidelines][contributing]
 
 ## Contributors
-test
+
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=um-csnet/malayahunter)
 
 [contributing]: /malayahunter/posts/how-to-contribute/
