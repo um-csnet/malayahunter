@@ -12,6 +12,10 @@ mermaid: true
 
 The unsafe `memcpy` usage in the `main()` function causes Buffer Overflow which causes us being able to overwrite the RSP and return to the targeted address `win()` function. However, our input will only causes Buffer Overflow but the predefined `suffix` in the `main()` function will be populated in RSP. Turns out the targeted function `win()` address is the same value as the string `.com`    
 
+## Source file
+
+[Download Source File](/assets/files/insanity-check.tar.gz)
+
 # File Analysis
 
 ## Security checking
