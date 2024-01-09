@@ -81,3 +81,16 @@ authors: [<author1_id>, <author2_id>]   # for multiple entries
 ---
 ```
 
+- Include challenge file for people to download
+
+`[Download Source File](/assets/files/road_not_taken.zip)`
+
+Example
+
+[Download Source File](/assets/files/road_not_taken.zip)
+
+> If you lost the challenge file, make sure to point out where people can get the challenge file
+{: .prompt-info }
+
+
+
