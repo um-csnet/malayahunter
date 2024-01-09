@@ -11,6 +11,12 @@ mermaid: true
 # Overview
 
 The main goal is to manipulate the execution flow by exploiting PIE randomization into calling the `right_direction` function.
+
+## Source File
+
+[Download Source File](/assets/files/road_not_taken.zip)
+
+
 ## Analysis
 
 File check

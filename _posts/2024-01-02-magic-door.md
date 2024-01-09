@@ -8,14 +8,21 @@ math: true
 mermaid: true
 ---
 
+# Source File
+
+[Download Source File](/assets/files/magic-door.zip)
+
+# Analysis
 
 file type check
+
 ```bash
 $file magic_door 
 magic_door: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b2c5b2c9198914b2cf836a01366419a6a56adee1, for GNU/Linux 3.2.0, not stripped
 ```
 
 file protection check
+
 ```bash
 checksec --file magic_door 
     Arch:     amd64-64-little
@@ -29,6 +36,7 @@ checksec --file magic_door
 - No PIE -> address leaking much easier
 
 try to run
+
 ```bash
 $ ./magic_door 
 Welcome to the Magic Door !
