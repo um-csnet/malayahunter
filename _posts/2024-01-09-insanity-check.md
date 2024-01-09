@@ -14,7 +14,7 @@ The unsafe `memcpy` usage in the `main()` function causes Buffer Overflow which 
 
 ## Source file
 
-[Download Source File](/assets/files/insanity-check.tar.gz)
+[Download Source File]({{site.url}}/assets/files/insanity-check.tar.gz)
 
 # File Analysis
 

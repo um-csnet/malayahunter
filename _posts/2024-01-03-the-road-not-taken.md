@@ -14,8 +14,7 @@ The main goal is to manipulate the execution flow by exploiting PIE randomizatio
 
 ## Source File
 
-[Download Source File](/assets/files/road_not_taken.zip)
-
+[Download Source File]({{site.url}}/assets/files/road_not_taken.zip)
 
 ## Analysis
 
