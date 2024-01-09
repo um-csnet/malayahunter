@@ -87,7 +87,7 @@ authors: [<author1_id>, <author2_id>]   # for multiple entries
 
 Example
 
-[Download Source File]({{site.url}}/assets/files/road_not_taken.zip)
+[Download Source File]({{site.baseurl}}/assets/files/road_not_taken.zip)
 
 > If you lost the challenge file, make sure to point out where people can get the challenge file
 {: .prompt-info }
