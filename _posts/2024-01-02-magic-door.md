@@ -10,7 +10,7 @@ mermaid: true
 
 # Source File
 
-[Download Source File]({{site.url}}/assets/files/magic-door.zip)
+[Download Source File]({{site.baseurl}}/assets/files/magic-door.zip)
 
 # Analysis
 
