@@ -95,7 +95,6 @@ Your contributions does not limit to only submitting writeups
 
 ## Web Administrators
 
-- [Irfan](mailto:u2000429@siswa.um.edu.my)  : `u2000429@siswa.um.edu.my`
 - [Shafiq](mailto:u2000428@siswa.um.edu.my) : `u2000428@siswa.um.edu.my`
 - [Dr Faiz](mailto:faizzaki@um.edu.my)      : `faizzaki@um.edu.my`
 
